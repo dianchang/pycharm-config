@@ -13,4 +13,4 @@ You can just import [settings.jar](https://github.com/dianchang/pycharm-config/r
 * Set template as Jinja2 `Languages & Framework -> Python Template Language`
 * Change reformat code hotkey
   * Add `Option + F` to `Keymap -> Main menu -> Code -> Reformat Code`
-  * Add `Option + D` to `Keymap -> Other -> Show Reformat File Dialog`
+  * Add `Option + O` to `Keymap -> Other -> Show Reformat File Dialog`
