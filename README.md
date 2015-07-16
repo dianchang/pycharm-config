@@ -1,8 +1,8 @@
 # pycharm-config
 
-Config for pPyCharm4.
+Config for PyCharm4.
 
-You can just import `settings.jar` or config as follows:
+You can just import [settings.jar](https://github.com/dianchang/pycharm-config/raw/master/settings.jar), or config as follows:
 
 * LESS file watcher `Editor -> General -> Appearance` (Install `lessc` via npm first)
 * Show line numbers `Editor -> General -> Appearance`
