@@ -11,6 +11,7 @@ You can just import `settings.jar` or config as follows:
   * Set `application` as Resources
   * Set `application/templates` as Templates
 * Set template as Jinja2 `Languages & Framework -> Python Template Language`
-* Change reformat code hotkey
+* Change reformat code keymap
   * Add `Option + F` to `Keymap -> Main menu -> Code -> Reformat Code`
-  * Add `Option + D` to `Keymap -> Other -> Show Reformat File Dialog`
+* Change navigate file keymap 
+  * Add `Option + G` to `Keymap -> Main menu -> Navigate -> File`
