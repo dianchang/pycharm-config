@@ -15,3 +15,6 @@ You can just import [settings.jar](https://github.com/dianchang/pycharm-config/r
   * Add `Option + F` to `Keymap -> Main menu -> Code -> Reformat Code`
 * Change navigate file keymap 
   * Add `Option + G` to `Keymap -> Main menu -> Navigate -> File`
+* Change rename keymap
+  * Remove `Option + R` from `Keymap -> Tools -> Run manage.py Task`
+  * Add `Option + R` to `Keymap -> Main menu -> Refactor -> Rename`
